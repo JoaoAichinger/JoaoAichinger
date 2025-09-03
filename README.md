@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I'm a **Full Stack Developer** with a strong background in both **Front-End** and **Back-End** development.  
+I'm a **Data Scientist** **Full Stack Developer** with a strong background in both **Front-End** and **Back-End** development.  
 I’m passionate about **technology, games, and automation**.
 
 - 🎓 Bachelor’s Degree in **Computer Science**  
